@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/io/bio/BIOServer.java=UTF-8
+encoding//src/main/java/io/bio/BIOServerThread.java=UTF-8
+encoding//src/main/java/io/nio/NIOServer.java=UTF-8
+encoding//src/main/java/proxy/CglibProxy.java=UTF-8
+encoding//src/main/java/proxy/JDKDynamicProxyHandler.java=UTF-8
+encoding//src/main/java/proxy/Pet.java=UTF-8
